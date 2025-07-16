@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "72afd1dff6581983",
+    "type": "split",
+    "children": [
+      {
+        "id": "11e1cd1b21894652",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0dcfe88a7f97e2d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Обучение/React/React.canvas",
+                "viewState": {
+                  "x": -840,
+                  "y": 400,
+                  "zoom": -3.1222082038741994
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "React"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e380200a6a170c89",
+    "type": "split",
+    "children": [
+      {
+        "id": "a72ab21d0e2417f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54983367665f107a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "98b1d087959b6f3c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "5a6a3cd8dcbdfd4e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0af83c7f7c992f17",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b01d283c8f030bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc88c933d5622e9b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Docker/Docker.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Docker"
+            }
+          },
+          {
+            "id": "704f67cc7cae7971",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Docker/Docker.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Docker"
+            }
+          },
+          {
+            "id": "fc32fc8afcd34dc1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "e4da71157e866ace",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Docker/Docker.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Docker"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
+  },
+  "active": "f0dcfe88a7f97e2d",
+  "lastOpenFiles": [
+    "Обучение/Сишарп/Сишарп.canvas",
+    "Обучение/Docker/Картинки Docker/Pasted image 20250716164455.png",
+    "Обучение/Docker/Docker.canvas",
+    "Обучение/React/React.canvas",
+    "README.md",
+    "Обучение"
+  ]
+}
