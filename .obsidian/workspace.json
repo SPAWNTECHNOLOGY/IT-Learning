@@ -15,9 +15,9 @@
               "state": {
                 "file": "Обучение/React/React.canvas",
                 "viewState": {
-                  "x": -840,
-                  "y": 400,
-                  "zoom": -3.1222082038741994
+                  "x": -366.0074844074844,
+                  "y": 1227.1634095634095,
+                  "zoom": -2.2162951267520588
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -173,10 +173,10 @@
   },
   "active": "f0dcfe88a7f97e2d",
   "lastOpenFiles": [
-    "Обучение/Сишарп/Сишарп.canvas",
-    "Обучение/Docker/Картинки Docker/Pasted image 20250716164455.png",
     "Обучение/Docker/Docker.canvas",
+    "Обучение/Сишарп/Сишарп.canvas",
     "Обучение/React/React.canvas",
+    "Обучение/Docker/Картинки Docker/Pasted image 20250716164455.png",
     "README.md",
     "Обучение"
   ]
