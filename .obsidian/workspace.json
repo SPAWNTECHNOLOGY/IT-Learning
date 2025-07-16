@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "329f6ad67302e2c5",
+        "id": "9eb4d15cbd1e2c38",
         "type": "tabs",
         "children": [
           {
-            "id": "fbd06ab1e04d55f9",
+            "id": "16c90ac3d34b3669",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "Обучение/Сишарп/Сишарп.canvas",
+                "viewState": {
+                  "x": -11612.601982403308,
+                  "y": 3958.995267392963,
+                  "zoom": -3.6666666666666665
+                }
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-layout-dashboard",
+              "title": "Сишарп"
             }
           }
         ]
@@ -94,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Обучение/React/React.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +107,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для README"
+              "title": "Обратные ссылки для React"
             }
           },
           {
@@ -113,12 +116,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Обучение/React/React.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из README"
+              "title": "Исходящие ссылки из React"
             }
           },
           {
@@ -142,13 +145,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "Обучение/React/React.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура README"
+              "title": "Структура React"
             }
           }
         ]
@@ -168,11 +171,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "fbd06ab1e04d55f9",
+  "active": "16c90ac3d34b3669",
   "lastOpenFiles": [
-    "Обучение/Docker/Docker картинки",
-    "Обучение/Docker",
     "Обучение/React/React.canvas",
-    "Обучение/Сишарп .NET/Сишарп .NET.canvas"
+    "Обучение/Сишарп/Сишарп.canvas",
+    "Обучение/Сишарп/Картинки Сишарп/Example base.png",
+    "Обучение/Сишарп/Картинки Сишарп/Example.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250420193802.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250420192733.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250420024658.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250420024310.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250419162737.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250419162557.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250419162258.png",
+    "Обучение/Сишарп/Картинки Сишарп/Pasted image 20250419162220.png",
+    "Обучение/Сишарп/Картинки Сишарп",
+    "Обучение/Сишарп",
+    "Обучение/Сишарп/Сишарп.canvas",
+    "Обучение/Docker/Docker.canvas",
+    "README.md",
+    "Обучение/Docker/Картинки Docker",
+    "Обучение/Docker"
   ]
 }
